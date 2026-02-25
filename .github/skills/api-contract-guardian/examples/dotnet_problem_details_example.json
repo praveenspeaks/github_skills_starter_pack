@@ -1,0 +1,10 @@
+{
+  "type": "https://httpstatuses.com/400",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "|abc123.",
+  "errors": {
+    "email": ["Email is required."],
+    "phone": ["Phone must be in E.164 format."]
+  }
+}
