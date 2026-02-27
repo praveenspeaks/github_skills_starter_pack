@@ -48,7 +48,7 @@ Run tests; fix compilation issues; ensure tests are readable.
 Required Copilot usage
 Example prompt (developers can copy):
 
-vbnet
+.net
 /test-case-generator
 Target: PricingService.CalculateDiscount in src/Backend/.../PricingService.cs
 Tests: xUnit + Moq
@@ -89,7 +89,7 @@ Rename a property (breaking)
 Steps
 Change a DTO (in a branch).
 Invoke:
-vbnet
+.net
 /api-contract-guardian
 Change: CreateOrderRequestDto added required field "shippingAddress"
 Consumers: Angular order.service.ts and external clients

@@ -77,7 +77,6 @@ Important controls
 disable-model-invocation: true → makes it manual-only (safer for high-impact skills like prod changes).
 user-invokable: false → hides it from slash menu but still allows auto-load (good for background “style guardrails”).
 4) The training approach: “Skills are runbooks, not essays”
-Teach your developers this rule:
 
 A good skill has:
 Trigger intent (“when to use it”)

@@ -5,8 +5,6 @@ Your playbook nails it in Governance Principle #4:
 
 Human accountability — Engineers remain owners of design, code, and decisions.
 
-Tell your team this upfront:
-
 Copilot is a force multiplier, not a crutch
 Every AI-generated line of code belongs to the developer who accepts it
 The goal is faster delivery with fewer regressions, not "let AI do the work"
